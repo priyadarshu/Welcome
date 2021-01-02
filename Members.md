@@ -31,3 +31,11 @@ __About__:    I am currently pursuing B.Tech CSE from SRM University with specia
 __Tech Stack__:  Flutter, Java, Python  
 __Social Handles__:  [LinkedIn](https://www.linkedin.com/in/adityathakurxd/)  | [GitHub](https://github.com/adityathakurxd) | [Twitter](https://twitter.com/adityathakurxd) | [Instagram](https://www.instagram.com/adityathakurxd/)  
 __Website__:  [YouTube Channel](https://www.youtube.com/channel/UChCAJNpMwoEUYCsE_eSyU4w) | [Portfolio](http://adityathakur.studio/) 
+
+- __Name__:  Priyadarshini Chettiar
+__Country__:  India  
+__About__:    I have just pursued my post graduation MSC in IT, checking out opportunities in tech industry as a fresher. I like to write [Quotes](https://www.yourquote.in/priyadarshini-chettiar-r6iq/quotes) and [Blogs](https://thedriftedsoul.blogspot.com/) to inspire people. Planning to start writing technical blogs.
+__Tech Stack__:  Flutter, React JS, VBA
+__Social Handles__:  [LinkedIn](https://www.linkedin.com/in/priyadarshini-chettiar-476332129/)  | [GitHub](https://github.com/priyadarshu) | [Twitter](https://twitter.com/priya_darshu_) 
+__Website__:  Still under development
+
